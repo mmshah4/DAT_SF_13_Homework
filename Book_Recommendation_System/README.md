@@ -2,7 +2,7 @@
 Project Goal:
 
 Build a recommender engine for Books using Book-Crossing datasets and apply variations of Collaborative filtering and Content
-filtering to understand pros/cons of each of them. Content based is used mainly for the cold start problem.
+based filtering to understand pros/cons of each of them. (Hybrid) Content based filtering is used mainly for the cold start problem.
 
 Data:
 Book Crossing data available on http://www2.informatik.uni-freiburg.de/~cziegler/BX/
